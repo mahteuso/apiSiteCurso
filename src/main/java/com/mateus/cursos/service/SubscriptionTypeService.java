@@ -15,6 +15,7 @@ public class SubscriptionTypeService {
 
     public List<SubscriptionType> findAll() {
         return subscriptionTypeRepository.findAll();
+
     }
 
 }
