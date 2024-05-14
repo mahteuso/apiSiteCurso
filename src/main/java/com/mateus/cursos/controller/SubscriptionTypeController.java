@@ -1,7 +1,6 @@
 package com.mateus.cursos.controller;
 
 import com.mateus.cursos.model.SubscriptionType;
-import com.mateus.cursos.repository.SubscriptionTypeRepository;
 import com.mateus.cursos.service.SubscriptionTypeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
