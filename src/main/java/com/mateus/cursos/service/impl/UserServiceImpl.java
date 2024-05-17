@@ -10,9 +10,11 @@ import com.mateus.cursos.repository.UserTypeRepository;
 import com.mateus.cursos.repository.UsersRepository;
 import com.mateus.cursos.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.Objects;
 
+@Service
 public class UserServiceImpl implements UserService {
 
     @Autowired
