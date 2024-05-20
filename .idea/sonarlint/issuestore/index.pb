@@ -97,8 +97,6 @@ G.idea/sonarlint/issuestore/b/d/bd27282fd6419f955c25c4ab141a8c64bb7637f7,7/b/7b
 Å
 Q.idea/sonarlint/securityhotspotstore/7/a/7a1042f90caa591df248cce3650a1baa96e14c03,0/d/0d8375aea0d1a2c477c70067b5ea736dbeace8ce
 Å
-Q.idea/sonarlint/securityhotspotstore/4/8/4879390948aa6434ee6f55868284633d602d3cd3,3/f/3f0c4f1fec47a306f0d0bfdf88451c0dfab3bb4b
-Å
 Q.idea/sonarlint/securityhotspotstore/9/e/9e96f6fcadd03b7193748e4a3e0cdc02d3fd7cde,b/7/b7434d96d6e46085a667ca7c9eb5e40a51ef9ed3
 w
 G.idea/sonarlint/issuestore/a/2/a2f771ce10610b231a22ffc8f682ac825db320f8,6/8/682d0fb2c78cf90bb3deda48892fc951a907fbbb
@@ -118,8 +116,6 @@ w
 G.idea/sonarlint/issuestore/b/f/bf21a56811b6e40ec267ed612ce8883ddc8a9f9a,e/1/e14021cb38a5ded9e53a4deeac109ff2afd4116d
 w
 G.idea/sonarlint/issuestore/c/e/ce5bf393f0587466e57d639bce8493b0246aaca6,8/8/8866cfbee13bdbad271dcb443fb4624e1612789f
-Å
-Q.idea/sonarlint/securityhotspotstore/3/f/3f0c4f1fec47a306f0d0bfdf88451c0dfab3bb4b,2/b/2b56973d91d7fc125860a34a215b4493ae5bc11d
 Å
 Q.idea/sonarlint/securityhotspotstore/1/c/1cf6695096f825ef5e105262306c7731932bcd2d,a/a/aa94d0813fcbde9a0ad1b6e7948d0a0e91a4c51f
 Å
@@ -164,8 +160,6 @@ Q.idea/sonarlint/securityhotspotstore/8/3/8337d8e3a726c3c3e6ab5370a47a758ad9450f
 Q.idea/sonarlint/securityhotspotstore/b/b/bbf202272a96de5cd6b6828ffdc55fb3ce45289c,4/8/4863281891d32ef796d6f680d78cb100e7c940be
 Å
 Q.idea/sonarlint/securityhotspotstore/b/f/bf21a56811b6e40ec267ed612ce8883ddc8a9f9a,b/e/be4ffad704616fea66f14d4e9759d79d34c7ca22
-w
-G.idea/sonarlint/issuestore/3/f/3f0c4f1fec47a306f0d0bfdf88451c0dfab3bb4b,2/6/26b14d15947a6fe6c6a77e72b9a9e245e7ea4f39
 Å
 Q.idea/sonarlint/securityhotspotstore/b/7/b7434d96d6e46085a667ca7c9eb5e40a51ef9ed3,9/6/96e95b5e8f0b39b88badfae218d1ab456d300c6b
 Å
@@ -192,3 +186,15 @@ w
 G.idea/sonarlint/issuestore/1/c/1cf6695096f825ef5e105262306c7731932bcd2d,8/1/8189207c769d3802d277b7560c2aa95bf9f18f33
 Å
 Q.idea/sonarlint/securityhotspotstore/c/5/c508dfac6c7f56ef3466667a1de73c1919884e34,7/a/7a10f8bf60c94f3bcfc931f8b030afdd9f6846c1
+f
+6src/main/java/com/mateus/cursos/service/UserTypes.java,e/3/e3278d0f5dec445a67b41f1b6eefc7aba846c407
+v
+Fsrc/main/java/com/mateus/cursos/service/impl/UserTypesServiceimpl.java,6/4/647f1d58983225916ce5289fc59191b010883b1c
+m
+=src/main/java/com/mateus/cursos/service/UserTypesService.java,5/0/50c7ffdacc11bff9ce517fdeddd37f334c8abc5d
+r
+Bsrc/main/java/com/mateus/cursos/controller/UserTypeController.java,4/8/483504a8dfca76e729411d3b113f2e75806e3f9c
+l
+<src/main/java/com/mateus/cursos/service/UserTypeService.java,e/d/ed182e405247b11f851088abd6789b873158b893
+u
+Esrc/main/java/com/mateus/cursos/service/impl/UserTypeServiceimpl.java,b/a/ba5c6b80eeb50334098ab5e9b800c5d7fff6c13d
