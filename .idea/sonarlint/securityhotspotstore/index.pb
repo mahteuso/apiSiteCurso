@@ -198,3 +198,5 @@ l
 <src/main/java/com/mateus/cursos/service/UserTypeService.java,e/d/ed182e405247b11f851088abd6789b873158b893
 u
 Esrc/main/java/com/mateus/cursos/service/impl/UserTypeServiceimpl.java,b/a/ba5c6b80eeb50334098ab5e9b800c5d7fff6c13d
+p
+@src/main/java/com/mateus/cursos/configuration/SwaggerConfig.java,9/9/997148bfefa4e4f8fd5a17c47b426a526d6768a4
