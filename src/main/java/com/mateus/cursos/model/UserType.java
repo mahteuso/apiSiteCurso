@@ -21,6 +21,7 @@ public class UserType implements Serializable {
     @Column(name = "user_type_id")
     private Long id;
 
+    @Column(nullable = false)
     private String name;
 
     private String description;
