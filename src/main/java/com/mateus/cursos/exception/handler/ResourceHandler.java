@@ -2,6 +2,7 @@ package com.mateus.cursos.exception.handler;
 
 import com.mateus.cursos.dto.error.ErrorResponseDto;
 import com.mateus.cursos.exception.BadRequestException;
+import com.mateus.cursos.exception.BusinessException;
 import com.mateus.cursos.exception.NotFoundException;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;
@@ -59,6 +60,15 @@ public class ResourceHandler {
                 .message(d.getMessage())
                 .httpStatus(HttpStatus.BAD_REQUEST)
                 .statusCode(HttpStatus.BAD_REQUEST.value())
+                .build());
+    }
+
+    @ExceptionHandler(BusinessException.class)
+    public ResponseEntity<ErrorResponseDto> badRequestException(BusinessException bs){
+        return ResponseEntity.status(HttpStatus.CONFLICT).body(ErrorResponseDto.builder()
+                .message(bs.getMessage())
+                .httpStatus(HttpStatus.CONFLICT)
+                .statusCode(HttpStatus.CONFLICT.value())
                 .build());
     }
 
